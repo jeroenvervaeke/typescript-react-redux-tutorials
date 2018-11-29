@@ -29,7 +29,8 @@ The script part of the package.json should look like this (I removed the _test_ 
 ## Types
 - Basic types
 - Literal types
-- Type unions
-- Nullables
+- Type unions & Nullables
+- Intersection types
+- Type aliasing
 - Interfaces
 - Classes
