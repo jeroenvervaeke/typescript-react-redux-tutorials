@@ -11,7 +11,7 @@ class Person extends React.PureComponent<PersonProps> {
 
     return (
       <div>
-        <h1>Regular componet</h1>
+        <h1>Pure component</h1>
         <div>
           First name: <b>{firstName}</b>
         </div>
